@@ -1,0 +1,23 @@
+.box1{
+height: 300px;
+width: 300px;
+background-color: rgb(187, 187, 35);
+border-color: blueviolet;
+border-style: dashed;
+border-radius: 10px;
+padding: 3px;
+
+}
+.box2{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(64, 24, 165);
+    border-style: inset;
+    
+}
+.box3{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(16, 155, 90);
+    border-style: groove;
+}
